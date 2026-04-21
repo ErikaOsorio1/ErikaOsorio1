@@ -1,5 +1,5 @@
 
-##Sobre Mí :
+## Sobre Mí :
 - 💻 Soy estudiante de Informática con interés en el desarrollo Backend, Frontend e Inteligencia Artificial.
 - 🎓 Actualmente estoy fortaleciendo mis conocimientos en programación, lógica y desarrollo de proyectos tecnológicos.
 - 🚀 Me gusta crear proyectos innovadores para mi portafolio, no solo los típicos universitarios.
