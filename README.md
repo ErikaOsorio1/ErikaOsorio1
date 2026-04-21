@@ -33,11 +33,11 @@
 
 <div align="center"> 
   <a href="https://github.com/ErikaOsorio1">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ErikaMunoz&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ErikaOsorio1&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
   </a>
 
-  <a href="https://github.com/ErikaMunoz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaMunoz&theme=react&line_height=40&hide=css"/>
+  <a href="https://github.com/ErikaOsorio1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaOsorio1&theme=react&line_height=40&hide=css"/>
   </a>
 </div>
 
